@@ -1,0 +1,7 @@
+To run the project:
+
+In ForecastApiApplication.java class Run project then
+http://localhost:8080/forecast?city=London  or
+                    localhost:8080/forecast?city=London  (GET) from Postman (city is requestParam)
+
+![img.png](img.png)
